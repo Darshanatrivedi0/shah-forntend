@@ -27,7 +27,6 @@ const useStyles = makeStyles()((theme) => {
     };
 });
 
-
 const AuthLayout = () => {
     const { classes } = useStyles();
 
